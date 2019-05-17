@@ -5,10 +5,10 @@ Script en visual basic que convierte al formato de MS Excel la exportación de v
 ## Como usar
 
 Para usar el script descarga las ventas desde el aplicativo rcel de afip
-![rcel_1](https://raw.githubusercontent.com/mescalitog/rcel-ventas-parcer/master/img/rcel_1.png)
+![rcel_1](https://raw.githubusercontent.com/mescalitog/rcel-ventas-parcer/master/img/rcel_1.jpg)
 
 descomprimí el archivo RESULTADOS_BUSQUEDA.zip y arrastrá el archivo VENTAS.txt sobre el script 
-![rcel_2](https://raw.githubusercontent.com/mescalitog/rcel-ventas-parcer/master/img/rcel_2.png)
+![rcel_2](https://raw.githubusercontent.com/mescalitog/rcel-ventas-parcer/master/img/rcel_2.jpg)
 
 se abrirá un archivo excel con los datos del archivo VENTAS.txt
 
